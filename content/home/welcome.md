@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+自2017年成立以来，**视觉计算组**一直是江汉大学计算机视觉研究中心，主要研究兴趣包括视觉计算，模式识别，智慧医疗和爆破工程。
