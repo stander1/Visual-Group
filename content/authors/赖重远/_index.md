@@ -78,8 +78,9 @@ user_groups:
  - 2003.9-2007.6　　　华中科技大学通信工程专业　　本科
 
 **工作经历**
-
- - 2020.10-至今         江汉大学交叉学科研究院                                           副研究员
+ - 2021.07-至今        江汉大学人工智能学院                                             副研究员
+                               合作导师：Junsong Yuan（IEEE Fellow、IAPR Fellow）
+ - 2020.10-2021.07     江汉大学交叉学科研究院                                           副研究员
                                合作导师：Junsong Yuan（IEEE Fellow、IAPR Fellow）
  - 2019.10-2020.10     美国纽约州立大学布法罗分校计算机科学与工程系                       访问学者
  - 2014.6-2020.10      江汉大学交叉学科研究院                                           助理研究员
@@ -139,9 +140,25 @@ user_groups:
 28. Zhijun Yao, Zhongyuan Lai, Wenyu Liu, A Symmetric KL Divergence Based Spatiogram Similarity Measure, 18th IEEE International Conference on Image Processing, ICIP 2011, Brussels, Belgium, 2011.09.11-09.14, pp. 193-196（EI、ISTP收录）
 29. Zhongyuan Lai, Junhuan Zhu, Zhou Ren, Wenyu Liu, Baolan Yan, Arbitrary Directional Edge Encoding Schemes for the Operational Rate-Distortion Optimal Shape Coding Framework, 20th IEEE Data Compression Conference, DCC 2010, Snowbird, Utah, 2010.03.24-03.26, pp. 20-29（EI、ISTP收录）
 
+**软件著作权**
+ 1. 二维形状骨架提取软件V1.0
+ 2. 二维形状骨架提取软件V1.1
+ 3. 平面数字曲线的多尺度视觉曲率计算软件V1.0
+ 4. 平面数字轮廓的多边形演化软件V1.0
+ 5. 平面数字轮廓的多边形演化软件V1.1
+ 6. 平面数字轮廓的多边形演化软件V2.0
+ 7. 基于曲线近似的率失真最优形状编解码软件V1.0
+ 8. 基于多边形近似的率失真最优形状编解码软件V1.0
+ 9. 基于多边形近似的率失真最优形状编解码软件V2.0
+ 10. 基于多边形近似的率失真最优形状编解码软件V2.1
+ 11. 基于多边形近似的率失真最优形状编解码软件V2.2
+ 12. 基于多边形近似的率失真最优形状编解码软件V3.0
+ 13. 基于蚁群算法的路径规划解析系统V1.0
+
 **学术组织会员**
- 1. 国际电气与电子工程师协会（IEEE）会员                                                                         2014年6月至今
- 2. 日本电子信息通信学会（IEICE）会员                                                                            2012年4月至今
+ 1. 中国图像图形学学会（CSIG）会员                                                                               2022年5月至今
+ 2. 国际电气与电子工程师协会（IEEE）会员                                                                         2014年6月至今
+ 3. 日本电子信息通信学会（IEICE）会员                                                                            2012年4月至今
 
 **学术期刊审稿人**
  1. IEEE Transactions on Systems, Man, and Cybernetics: Systems（SMCA）（中科院SCI一区）                        2019年12月至今
