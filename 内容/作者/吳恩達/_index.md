@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 吳恩達
+title: 吴显峰
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 吴显峰
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: JH University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,5 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+吴显峰 is my superman
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
