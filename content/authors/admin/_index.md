@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Associate Researcher
+title: 副研究员
 
 # Is this the primary user of the site?
 superuser: true
