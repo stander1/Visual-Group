@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吴显峰
+title: 魏青
 
 # Username (this should match the folder name)
 authors:
@@ -66,8 +66,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master's Degree student
+  - 硕士研究生
 ---
 
-吴显峰 is my superman !
+handsome !
 
