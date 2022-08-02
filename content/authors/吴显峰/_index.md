@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 炳灵学院-人工智能学院本科生
 
 # Organizations/Affiliations
 organizations:
