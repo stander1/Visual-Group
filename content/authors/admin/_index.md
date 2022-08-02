@@ -17,9 +17,9 @@ organizations:
 bio: 我的主要研究兴趣包括视觉计算和模式识别.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 视觉计算
+  - 模式识别
+  - 智能驾驶
 
 education:
   courses:
@@ -68,6 +68,4 @@ user_groups:
   - 副研究员
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+赖重远（IEEE会员、IEICE会员、CSIG会员）于2008年和2013年分别从华中科技大学获得工学学士和博士学位。他目前是江汉大学副研究员，硕士生导师。他主持和参与了十多项个研究项目。他已经发表了超过40篇论文，拥有15项软件著作权。他的主要研究兴趣包括视觉计算和模式识别。
