@@ -16,10 +16,10 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - 副研究员
-    - 硕士研究生
-    - 炳灵学院-人工智能学院本科生
-    - 人工智能学院本科生
+    - Research associate
+    - Master's Degree student
+    - Bing Ling College - College of Artificial Intelligence undergraduate
+    - College of Artificial Intelligence undergraduate
 design:
   show_interests: false
   show_role: true
