@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 人工智能学院本科生
+  - College of Artificial Intelligence undergraduate
 ---
 
 董晓坤 jijian 吴显峰
