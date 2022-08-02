@@ -16,12 +16,10 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
+    - 副研究员
+    - 硕士研究生
+    - 炳灵学院-人工智能学院本科生
+    - 人工智能学院本科生
 design:
   show_interests: false
   show_role: true
