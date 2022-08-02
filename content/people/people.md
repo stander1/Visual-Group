@@ -17,10 +17,10 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - 副研究员
-    - Associate Researcher
-    - Masters Students
-    - Undergraduate students of Bingling Honorary School and School of Artificial Intelligence 
-    - Undergraduate students of School of Artificial Intelligence 
+    - 硕士研究生
+    - 炳灵学院-人工智能学院本科生
+    - 人工智能学院本科生
+
 design:
   show_interests: false
   show_role: true
