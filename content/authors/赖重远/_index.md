@@ -72,8 +72,8 @@ user_groups:
 
 **教育背景**
  - 2007.9-2013.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学通信与信息系统专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕博连读  
-导师：刘文予（华中科技大学电子信息与通信学院人工智能研究所所长）  
-博士论文题目：形状部分的视觉显著度与形状编码
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　导师：刘文予（华中科技大学电子信息与通信学院人工智能研究所所长）  
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　博士论文题目：形状部分的视觉显著度与形状编码
  - 2003.9-2007.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学通信工程专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科
 
 **工作经历**
