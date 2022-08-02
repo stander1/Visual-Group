@@ -1,6 +1,6 @@
 ---
 # Display name
-title: lzy
+title: 赖重远
 
 # Is this the primary user of the site?
 superuser: true
