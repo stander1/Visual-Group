@@ -16,10 +16,10 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Research associate
-    - Master's Degree student
-    - Bingling Honorary School
-    - College of Artificial Intelligence undergraduate
+    - Associate Researcher
+    - Masters Students
+    - Undergraduate students of Bingling Honorary School and School of Artificial Intelligence 
+    - Undergraduate students of School of Artificial Intelligence 
 design:
   show_interests: false
   show_role: true
