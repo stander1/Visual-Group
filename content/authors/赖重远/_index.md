@@ -71,20 +71,20 @@ user_groups:
 赖重远（IEEE会员、IEICE会员、CSIG会员）于2008年和2013年分别从华中科技大学获得工学学士和博士学位。他目前是江汉大学副研究员，硕士生导师。他主持和参与了十多项个研究项目。他已经发表了超过40篇论文，拥有15项软件著作权。他的主要研究兴趣包括视觉计算和模式识别。
 
 **教育背景**
-2007.9-2013.6       华中科技大学通信与信息系统专业                               硕博连读
-                            导师：刘文予（华中科技大学电子信息与通信学院人工智能研究所所长）
-                            博士论文题目：形状部分的视觉显著度与形状编码
-2003.9-2007.6       华中科技大学通信工程专业                                        本科
+ - 2007.9-2013.6       华中科技大学通信与信息系统专业                               硕博连读
+ -                             导师：刘文予（华中科技大学电子信息与通信学院人工智能研究所所长）
+ -                             博士论文题目：形状部分的视觉显著度与形状编码
+ - 2003.9-2007.6       华中科技大学通信工程专业                                        本科
 
 **工作经历**
 
-2020.10-至今         江汉大学交叉学科研究院                                           副研究员
-                            合作导师：Junsong Yuan（IEEE Fellow、IAPR Fellow）
-2019.10-2020.10     美国纽约州立大学布法罗分校计算机科学与工程系                       访问学者
-2014.6-2020.10      江汉大学交叉学科研究院                                           助理研究员
-2013.11-2014.6      江汉大学交叉学科研究院                                           研究实习员
-2011.10-2012.4      新加坡南洋理工大学电气与信息工程学院                              研究助理
-                            合作导师：Junsong Yuan（Nanyang Assistant Professor）
+ - 2020.10-至今         江汉大学交叉学科研究院                                           副研究员
+ -                             合作导师：Junsong Yuan（IEEE Fellow、IAPR Fellow）
+ - 2019.10-2020.10     美国纽约州立大学布法罗分校计算机科学与工程系                       访问学者
+ - 2014.6-2020.10      江汉大学交叉学科研究院                                           助理研究员
+ - 2013.11-2014.6      江汉大学交叉学科研究院                                           研究实习员
+ - 2011.10-2012.4      新加坡南洋理工大学电气与信息工程学院                              研究助理
+ -                             合作导师：Junsong Yuan（Nanyang Assistant Professor）
 
 **研究兴趣**
 
@@ -139,12 +139,12 @@ user_groups:
 29. Zhongyuan Lai, Junhuan Zhu, Zhou Ren, Wenyu Liu, Baolan Yan, Arbitrary Directional Edge Encoding Schemes for the Operational Rate-Distortion Optimal Shape Coding Framework, 20th IEEE Data Compression Conference, DCC 2010, Snowbird, Utah, 2010.03.24-03.26, pp. 20-29（EI、ISTP收录）
 
 **学术组织会员**
-1. 国际电气与电子工程师协会（IEEE）会员                                                                         2014年6月至今
-2. 日本电子信息通信学会（IEICE）会员                                                                            2012年4月至今
+ 1. 国际电气与电子工程师协会（IEEE）会员                                                                         2014年6月至今
+ 2. 日本电子信息通信学会（IEICE）会员                                                                            2012年4月至今
 
 **学术期刊审稿人**
-1. IEEE Transactions on Systems, Man, and Cybernetics: Systems（SMCA）（中科院SCI一区）                        2019年12月至今
-2. Neurocpmputing（中科院SCI二区）                                                                             2016年8月至今
-3. Journal of Visual Communication and Image Representation（JVCI）（中科院SCI三区）                           2013年3月至今
-4. The Visual Computer Journal（TVC）（中科院SCI四区）                                                         2020年11月至今
-5. Journal of Electronic Imaging（JEI）（中科院SCI四区）                                                       2012年12月至今
+ 1. IEEE Transactions on Systems, Man, and Cybernetics: Systems（SMCA）（中科院SCI一区）                        2019年12月至今
+ 2. Neurocpmputing（中科院SCI二区）                                                                             2016年8月至今
+ 3. Journal of Visual Communication and Image Representation（JVCI）（中科院SCI三区）                           2013年3月至今
+ 4. The Visual Computer Journal（TVC）（中科院SCI四区）                                                         2020年11月至今
+ 5. Journal of Electronic Imaging（JEI）（中科院SCI四区）                                                       2012年12月至今
