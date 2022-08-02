@@ -71,10 +71,10 @@ user_groups:
 赖重远（IEEE会员、IEICE会员、CSIG会员）于2008年和2013年分别从华中科技大学获得工学学士和博士学位。他目前是江汉大学副研究员，硕士生导师。他主持和参与了十多项个研究项目。他已经发表了超过40篇论文，拥有15项软件著作权。他的主要研究兴趣包括视觉计算和模式识别。
 
 **教育背景**
- - 2007.9-2013.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学通信与信息系统专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕博连读
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师：刘文予（华中科技大学电子信息与通信学院人工智能研究所所长）
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士论文题目：形状部分的视觉显著度与形状编码
- - 2003.9-2007.6&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学通信工程专业                                     本科
+ - 2007.9-2013.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学通信与信息系统专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕博连读
+导师：刘文予（华中科技大学电子信息与通信学院人工智能研究所所长）
+博士论文题目：形状部分的视觉显著度与形状编码
+ - 2003.9-2007.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学通信工程专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科
 
 **工作经历**
 
