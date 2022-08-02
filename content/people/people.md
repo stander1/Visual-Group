@@ -18,7 +18,7 @@ content:
   user_groups:
     - Research associate
     - Master's Degree student
-    - Bing Ling College - College of Artificial Intelligence undergraduate
+    - Bingling Honorary School
     - College of Artificial Intelligence undergraduate
 design:
   show_interests: false
