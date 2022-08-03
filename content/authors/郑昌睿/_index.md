@@ -10,50 +10,50 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 炳灵学院-人工智能学院本科生
 
 # Organizations/Affiliations
 organizations:
-  - name: JH University
+  - name: 江汉大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我的主要研究兴趣包括视觉计算和模式识别.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence
+#       institution: Stanford University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:test@example.org'
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GeorgeCushen
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,5 +69,33 @@ user_groups:
   - 炳灵学院-人工智能学院本科生
 ---
 
-handsome !
+郑昌睿（CSIG学生会员）江汉大学人工智能学院和炳灵学院本科生，参与、主持多个省级校级科研项目。
+
+**教育背景**
+ - 2020.09-至今　　　江汉大学人工智能专业　　  本科
+<br>                    导师： 赖重远  
+                    
+**研究兴趣**
+
+ - 计算机科学与技术、视觉计算、模式识别
+
+**主持或参加科研项目**
+
+ 1. 2021-至今：江汉大学2021年度第二批学生科研项目：一种基于点云神经网络的物体识别方法（编号：2021Bczd007），0.5万元，在研，主持
+ 2. 2022-至今：大学生创新创业项目省级重点项目：一种基于新型编解码器诊断胎儿脑部异常的图像识别技术(编号:2022zd096)，0.6万元，参与
+ 3. 2022-至今：大学生创新创业项目校级一般项目：一种基于深度卷积神经网络诊断胎儿心脏发育异常的视频图像识别技术（编号：2022yb330），参与
+ 4. 2021-至今:2020级研究生创新基金一般项目:基于深度学习的点云补全算法研究
+
+**软件著作权**
+
+ 1. 二维形状骨架提取软件V1.1，2022SR0347060
+ 2. 平面数字轮廓的多边形演化软件V1.1，2022SR0688330
+ 3. 基于曲线近似的率失真最优形状编解码软件V1.0，2021SR1536129
+ 4. 基于多边形近似的率失真最优形状编解码软件V1.0，2021SR0785371
+ 5. 基于多边形近似的率失真最优形状编解码软件V2.0，2021SR1536127
+
+**学术组织会员**
+
+ - 中国图像图形学学会(CSIG)学生会员2022年5月至今
+
 
