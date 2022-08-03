@@ -61,7 +61,7 @@ bio: 我的主要研究兴趣包括嵌入式和视觉对抗.
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'XianfengWu@stu.jhun.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
