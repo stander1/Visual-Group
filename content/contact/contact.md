@@ -17,18 +17,18 @@ content:
 
   email: laizhy@jhun.edu.cn
   # phone: 888 888 88 88
-<!--   address:
-<br>    武汉经济技术开发区三角湖路8号
-<br>    江汉大学交叉学科研究院J15栋A612室 -->
-<!--   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com' -->
-  #contact_links:
+  # address:
+  #   武汉经济技术开发区三角湖路8号
+  #     江汉大学交叉学科研究院J15栋A612室
+  # coordinates:
+  #   latitude: '37.4275'
+  #   longitude: '-122.1697'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
   #  - icon: comments
   #    icon_pack: fas
   #    name: Discuss on Forum
@@ -38,13 +38,13 @@ content:
   # autolink: true
 
   # Email form provider
-<!--   form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false -->
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
 design:
   columns: '1'
