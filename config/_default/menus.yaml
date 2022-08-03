@@ -7,16 +7,16 @@ main:
   - name: 活动
     url: tour
     weight: 10
-  - name: Latest News
+  - name: 公告
     url: post
     weight: 20
   - name: 成员
     url: people
     weight: 30
-  - name: Events
+  - name: 项目
     url: event
     weight: 40
-  - name: Publications
+  - name: 出版物
     url: publication
     weight: 50
   - name: 招生
