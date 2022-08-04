@@ -11,11 +11,11 @@ title: |
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Add custom styles
   css_style:
   css_class:
 ---
 
 <br>
-自2017年成立以来，视觉计算组一直是江汉大学计算机视觉研究中心，主要研究兴趣包括视觉计算，模式识别，智慧医疗和爆破工程。
+  自2017年成立以来，视觉计算组一直是江汉大学计算机视觉研究中心，主要研究兴趣包括视觉计算，模式识别，智慧医疗和爆破工程。
