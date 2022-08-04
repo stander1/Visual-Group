@@ -19,6 +19,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+content:
+  email: 873060404@qq.com
 
 # interests:
 #   - Artificial Intelligence
