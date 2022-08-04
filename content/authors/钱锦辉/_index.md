@@ -19,8 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-content:
-  email: 873060404@qq.com
 
 # interests:
 #   - Artificial Intelligence
@@ -63,7 +61,7 @@ content:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '873060404@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
