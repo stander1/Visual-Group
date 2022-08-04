@@ -31,8 +31,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: 视觉计算组
+      content: '成立于2017年'
       align: right
       background:
         position: center
