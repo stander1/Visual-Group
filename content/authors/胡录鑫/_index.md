@@ -28,7 +28,7 @@ education:
   courses:
     - course: MEng in Electronic Information
       institution: Jianghan University
-      year: 2019/09-present
+      year: 2020/09-present
    #  - course: BSc in Artificial Intelligence
    #    institution: Massachusetts Institute of Technology
    #    year: 2008
