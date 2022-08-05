@@ -95,6 +95,10 @@ user_groups:
  10. 2022-至今：大学生创新创业项目省级重点项目：基于Jupyter和QPanda的量子云计算实践（编号：2022zd105），0.6万元，参与
  11. 2022-至今：大学生创新创业项目校级一般项目：一种基于Transformer诊断胎儿形体发育异常的点云识别技术（编号：2022yb315）
 
+**荣誉与奖励**
+
+ 1. 在光电材料与技术学院-交叉学科研究院的助理研究员桑鸿乾博士的带领下，吴显峰做为队长，吴显峰，杨中钱，李振等人获得2022ASC世界大学生超级计算机竞赛（ASC22）二等奖。
+
 **出版物**
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
  2.	Junfei Wang, Xiong Hui, Gong Yanli, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
