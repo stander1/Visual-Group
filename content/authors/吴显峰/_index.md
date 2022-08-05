@@ -101,10 +101,10 @@ user_groups:
 
 **出版物**
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
- 2.	Junfei Wang, Xiong Hui, Gong Yanli, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
+ 2.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
  3.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. PCCT: Point Cloud Classification Based on Transformer. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  4.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Data driven point cloud classification: a review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 5.	Junfei Wang, Xiong Hui, Gong Yanli, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 5.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  6.	Jiyan Cai, Libing Wu, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning. The 9th International Conference on Behavioral and Social Computing (BESC), 2022.
  7.	基于深度学习的3D点云补全算法综述. 魏青，钱锦辉，**吴显峰**，邓亚茹，赖重远*. 网络安全技术与应用.
 
