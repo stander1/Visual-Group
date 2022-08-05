@@ -92,7 +92,7 @@ user_groups:
 **出版物**
 
  1. **Junfei Wang**, Luxin Hu, Xianfeng Wu, Zhongyuan Lai*, Qian Jia*. Data driven point cloud classification: a review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 2. **Junfei Wang**, Xiong Hui, Gong Yanli, Xianfeng Wu, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 2. **Junfei Wang**, Hui Xiong, Yanli Gong, Xianfeng Wu, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  3. Xianfeng Wu, Xinyi Liu, **Junfei Wang**, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
  4. Xianfeng Wu, Xinyi Liu, **Junfei Wang**, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. PCCT: Point Cloud Classification Based on Transformer. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
 
