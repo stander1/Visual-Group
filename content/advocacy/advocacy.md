@@ -74,7 +74,7 @@ design:
   
 　　Email: laizhy@jhun.edu.cn　　
   
-　　QQ：281910492　　
+　　# QQ：281910492　　
   
 ---
 
