@@ -73,8 +73,7 @@ design:
 　　联系人：赖重远　　
   
 　　Email: laizhy@jhun.edu.cn　　
-  
-　　# QQ：281910492　　
+
   
 ---
 
