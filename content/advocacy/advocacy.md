@@ -69,7 +69,7 @@ design:
 
 ---
 ## 六.联系方式
-　　
+
 　　联系人：赖重远　　
   
 　　Email: laizhy@jhun.edu.cn　　
