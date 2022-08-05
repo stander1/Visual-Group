@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 
     content_dir: content
     branch: main
   avatar:
@@ -84,7 +84,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider:
     algolia:
       app_id: ''
       api_key: ''
@@ -100,7 +100,7 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: true
+    local_backend: false
   academicons:
     enable: true
 
