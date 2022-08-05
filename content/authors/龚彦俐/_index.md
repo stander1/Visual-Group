@@ -84,8 +84,8 @@ user_groups:
 
 
 **出版物**
- 1.	Junfei Wang, Xiong Hui, **Gong Yanli**, Xianfeng Wu, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
- 2.	Junfei Wang, Xiong Hui, **Gong Yanli**, Xianfeng Wu, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 1.	Junfei Wang, Hui Xiong, **Yanli Gong**, Xianfeng Wu, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
+ 2.	Junfei Wang, Hui Xiong, **Yanli Gong**, Xianfeng Wu, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
 
 
 **软件著作权**
