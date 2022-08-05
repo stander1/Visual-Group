@@ -1,7 +1,7 @@
 ---
-# An instance of the advocacy widget.
+# An instance of the blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget:advocacy
+widget:blank
 
 # This file represents a page section.
 headless: true
