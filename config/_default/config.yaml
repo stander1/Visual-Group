@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 视觉计算组 # Website name
-baseURL: 'https://visual-group1.netlify.app/' # Website URL
+baseURL: 'https://visual-group.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
