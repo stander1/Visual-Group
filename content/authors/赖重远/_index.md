@@ -108,6 +108,11 @@ user_groups:
  14. 武汉市科技攻关计划项目，2013011001010463，基于物联网的农产品生命特征采集仓储调度优化系统开发，2013/03-2014/12，25万元，已结题，参加
  15. 武汉市科技攻关计划一般项目，201250499145-24，基于复杂网络的城市道路交叉口信号控制，2012/05-2014/12，7万元，已结题，参加
 
+**荣誉与奖励**
+
+ 1. 赖重远、朱俊桓、罗杰波，发表在期刊《Journal of Electronic Imaging》上的论文《Operationally Optimal Vertex-based Shape Coding with Arbitrary Direction Edge Encoding Structures》获湖北省科学技术协会、湖北省人力资源和社会保障厅及湖北省科学技术厅联合颁发的第十六届湖北省自然科学优秀学术论文三等奖
+ 2. 赖重远，获武汉市人力资源和社会保障局颁发的2016年度武汉市人民政府博士资助
+
 **代表性研究成果**
 1. Xianfeng Wu, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022 （中科院SCI三区）
 2. Chun Wang, Zhongyuan Lai, Shape Decomposition and Classification by Searching Optimal Part Pruning Sequence, Pattern Recognition, 2016, 54: 206-217（中科院SCI一区）
