@@ -22,3 +22,7 @@ main:
   - name: 招生
     url: contact
     weight: 60
+  - name: 招生宣传
+    url: advocacy
+    weight: 70
+    
