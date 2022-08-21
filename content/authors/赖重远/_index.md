@@ -166,14 +166,14 @@ user_groups:
 
 
 **学术组织会员**
- 1. 中国图像图形学学会（CSIG）会员                                                                               2022年5月至今  
- 2. 国际电气与电子工程师协会（IEEE）会员                                                                         2014年6月至今  
- 3. 日本电子信息通信学会（IEICE）会员                                                                            2012年4月至今  
+ 1. 中国图像图形学学会（CSIG）会员　　　　2022年5月至今  
+ 2. 国际电气与电子工程师协会（IEEE）会员　　　　2014年6月至今  
+ 3. 日本电子信息通信学会（IEICE）会员　　　　2012年4月至今  
 
 **学术期刊审稿人**
- 1. IEEE Transactions on Systems, Man, and Cybernetics: Systems（SMCA）（中科院SCI一区）                        2019年12月至今  
+ 1. IEEE Transactions on Systems, Man, and Cybernetics: Systems（SMCA）　　　（中科院SCI一区）                        2019年12月至今  
  2. Neurocpmputing（中科院SCI二区）                                                                             2016年8月至今  
- 3. Journal of Visual Communication and Image Representation（JVCI）（中科院SCI三区）                           2013年3月至今  
+ 3. Journal of Visual Communication and Image Representation（JVCI）　　　（中科院SCI三区）                           2013年3月至今  
  4. The Visual Computer Journal（TVC）（中科院SCI四区）                                                         2020年11月至今  
  5. Journal of Electronic Imaging（JEI）（中科院SCI四区）                                                       2012年12月至今  
 
