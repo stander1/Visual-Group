@@ -113,7 +113,8 @@ user_groups:
  1. 赖重远、朱俊桓、罗杰波，发表在期刊《Journal of Electronic Imaging》上的论文《Operationally Optimal Vertex-based Shape Coding with Arbitrary Direction Edge Encoding Structures》获湖北省科学技术协会、湖北省人力资源和社会保障厅及湖北省科学技术厅联合颁发的第十六届湖北省自然科学优秀学术论文三等奖
  2. 赖重远，获武汉市人力资源和社会保障局颁发的2016年度武汉市人民政府博士资助
 
-**代表性研究成果**
+**代表性研究成果**  
+
 1. Xianfeng Wu, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022 （中科院SCI三区）
 2. Chun Wang, Zhongyuan Lai, Shape Decomposition and Classification by Searching Optimal Part Pruning Sequence, Pattern Recognition, 2016, 54: 206-217（中科院SCI一区）
 3. Zhongyuan Lai, Zhe Wang, Zhen Zuo, Zhijun Yao, Wenyu Liu, B-Spline-Based Shape Coding with Accurate Distortion Measurement Using Analytical Model, Neurocomputing, 2015, 149: 1631-1646（中科院SCI二区）
@@ -144,7 +145,8 @@ user_groups:
 28. Zhijun Yao, Zhongyuan Lai, Wenyu Liu, A Symmetric KL Divergence Based Spatiogram Similarity Measure, 18th IEEE International Conference on Image Processing, ICIP 2011, Brussels, Belgium, 2011.09.11-09.14, pp. 193-196（EI、ISTP收录）
 29. Zhongyuan Lai, Junhuan Zhu, Zhou Ren, Wenyu Liu, Baolan Yan, Arbitrary Directional Edge Encoding Schemes for the Operational Rate-Distortion Optimal Shape Coding Framework, 20th IEEE Data Compression Conference, DCC 2010, Snowbird, Utah, 2010.03.24-03.26, pp. 20-29（EI、ISTP收录）
 
-**软件著作权**
+**软件著作权**  
+
  1、	郑昌睿、赖重远、董晓坤、王一迪、蔡翊霖、涂卉惠、林玲、李洋、兰慧、周俊，平面数字轮廓的多边形演化软件V1.1，著作权人：江汉大学、研鸿智能科技（武汉）有限公司、湖南研鸿自动化设备有限公司，登记日期：2022年06月01日，登记号：2022SR0688330  
 2、	王俊飞、赖重远、胡录鑫、龚彦俐、钱锦辉、林玲、关素洁、徐晓晨、王萌、漆为民，平面数字轮廓的多边形演化软件V2.0，著作权人：江汉大学、研鸿智能科技（武汉）有限公司、湖南研鸿自动化设备有限公司，登记日期：2022年05月24日，登记号：2022SR0634645  
 3、	赖重远、王俊飞、魏青、熊辉、王兵，基于多边形近似的率失真最优形状编解码软件V2.2，著作权人：江汉大学、研鸿智能科技（武汉）有限公司、湖南研鸿自动化设备有限公司，登记日期：2022年04月13日，登记号：2022SR0464557  
@@ -160,24 +162,28 @@ user_groups:
 13、	赖重远、吴显峰、郑昌睿、王兵、张仕臻、程璐、林玲，基于多边形近似的率失真最优形状编解码软件V1.0，著作权人：江汉大学，登记日期：2021年05月28日，登记号：2021SR0785371（该软件已经以人民币1.5万元转让给湖南久慎仪器设备有限公司）  
 14、	刘霞、赖重远、熊琰、李雅卓、任先平、李骁、严明蝶、崔艳丽、梁何，脊柱侧弯检测系统V1.0，著作权人：江汉大学，登记日期：2021年11月24日，登记号：2021SR1879804  
 
-**发明专利**
+**发明专利**  
+
 1、	刘霞、周杨诗宇、杨唐柱、李雅卓、任先平、熊琰、赖重远、林玲、户苗、吴林飞、李蒙、刘闯、王磊，一种用户姿态的确定方法、装置以及处理设备，申请日期：2021年10月15号，专利号：2021112018716  
 2、	刘霞、赖重远、李雅卓、熊琰、任先平、林玲、李骁、严明蝶，一种用户姿态的评估方法、装置以及处理设备，申请日期：2021年7月6号，专利号：2021107655038  
 
 
-**学术组织会员**
+**学术组织会员**  
+
  1. 中国图像图形学学会（CSIG）会员　　　　2022年5月至今  
  2. 国际电气与电子工程师协会（IEEE）会员　　　　2014年6月至今  
  3. 日本电子信息通信学会（IEICE）会员　　　　2012年4月至今  
 
-**学术期刊审稿人**
+**学术期刊审稿人**  
+
  1. IEEE Transactions on Systems, Man, and Cybernetics: Systems（SMCA）　　　（中科院SCI一区）                        2019年12月至今  
  2. Neurocpmputing（中科院SCI二区）                                                                             2016年8月至今  
  3. Journal of Visual Communication and Image Representation（JVCI）　　　（中科院SCI三区）                           2013年3月至今  
  4. The Visual Computer Journal（TVC）（中科院SCI四区）                                                         2020年11月至今  
  5. Journal of Electronic Imaging（JEI）（中科院SCI四区）                                                       2012年12月至今  
 
-**研究生培养**
+**研究生培养**  
+
 1、	熊辉   江汉大学电子信息工程硕士生　　　　预期2024年6月毕业   导师：赖重远  
 2、	龚彦俐 江汉大学管理科学与工程硕士生　　　预期2024年6月毕业   导师：赖重远  
 3、	钱锦辉 江汉大学电子信息工程硕士生　　　　预期2024年6月毕业   导师：赖重远  
