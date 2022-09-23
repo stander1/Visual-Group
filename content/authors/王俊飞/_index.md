@@ -91,15 +91,20 @@ user_groups:
 
 **出版物**
 
- 1. **Junfei Wang**, Luxin Hu, Xianfeng Wu, Zhongyuan Lai*, Qian Jia*. Data driven point cloud classification: a review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 2. **Junfei Wang**, Hui Xiong, Yanli Gong, Xianfeng Wu, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 1. **Junfei Wang**, Luxin Hu, Xianfeng Wu, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 2. **Junfei Wang**, Hui Xiong, Yanli Gong, Xianfeng Wu, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  3. Xianfeng Wu, Xinyi Liu, **Junfei Wang**, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
- 4. Xianfeng Wu, Xinyi Liu, **Junfei Wang**, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. PCCT: Point Cloud Classification Based on Transformer. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 4. Xianfeng Wu, Xinyi Liu, **Junfei Wang**, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
 
 **软件著作权**
 
  1. 基于多边形近似的率失真最优形状编解码软件V2.2, 2022SR0464557, 2022/01/24.
  2. 平面数字轮廓的多边形演化软件V2.0, 2022SR0634645, 2022/02/14.
+
+**发明专利**  
+
+1、  吴显峰、赖重远、王俊飞、刘心怡、刘宇炜、周静、刘霞、刘哲、胡亦明，基于点云的物体分类方法及相关设备，专利权人：江汉大学、研鸿智能科技（武汉）有限公司、湖南研鸿自动化设备有限公司，申请日期：2022年9月5号，专利号：202211076689.7  
+
 
 **学术组织会员**
 
