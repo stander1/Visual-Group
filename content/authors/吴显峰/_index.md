@@ -102,9 +102,9 @@ user_groups:
 **出版物**
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
  2.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
- 3.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. PCCT: Point Cloud Classification Based on Transformer. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 4.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Data driven point cloud classification: a review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 5.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 3.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 4.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 5.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  6.	Jiyan Cai, Libing Wu, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning. The 9th International Conference on Behavioral and Social Computing (BESC), 2022.
  7.	基于深度学习的3D点云补全算法综述. 魏青，钱锦辉，**吴显峰**，邓亚茹，赖重远*. 网络安全技术与应用.
 
@@ -116,6 +116,11 @@ user_groups:
  5.	基于曲线近似的率失真最优形状编解码软件V1.0, 2021SR1536129, 2021/10/20
  6.	平面数字轮廓的多边形演化软件V1.0, 2021SR1647057, 2021/11/05
  7.	二维形状骨架提取软件V1.1, 2022SR0347060, 2022/03/15
+
+**发明专利**  
+
+ 1. 吴显峰、赖重远、王俊飞、刘心怡、刘宇炜、周静、刘霞、刘哲、胡亦明，基于点云的物体分类方法及相关设备，专利权人：江汉大学、研鸿智能科技（武汉）有限公司、湖南研鸿自动化设备有限公司，申请日期：2022年9月5号，专利号：202211076689.7
+
 
 **学术组织会员**
  - 中国图像图形学学会（CSIG）学生会员 2022年5月至今
