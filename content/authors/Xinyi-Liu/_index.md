@@ -57,7 +57,7 @@ user_groups:
 
 **出版物**
  1.	Xianfeng Wu, **Xinyi Liu**, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
- 2.	Xianfeng Wu, **Xinyi Liu**, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. PCCT: Point Cloud Classification Based on Transformer. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 2.	Xianfeng Wu, **Xinyi Liu**, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
 
 
 **软件著作权**
