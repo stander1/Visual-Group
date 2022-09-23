@@ -130,9 +130,9 @@ user_groups:
 9. 钱同惠、赖重远、张仕臻、王波，自适应双边界约束遗传算法的储位分配研究，现代电子技术，2017年9月，40（17）17：127-130（中文核心期刊）
 10. 钱同惠、王波、赖重远，智能仓储管理系统的储位分配优化研究，现代电子技术，2016年11月，39（22）：41-43（中文核心期刊）
 11. 姚志均, 刘俊涛, 赖重远, 刘文予, 一种改进的JSD距离的空间直方图相似度度量及目标跟踪, 自动化学报, 2011, 37(12): 1464-1473（中文核心期刊）
-12. Xianfeng Wu, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu. PCCT: Point Cloud Classification Based on Transformer. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR 2022), Shanghai, China, October 21-23, 2022. Oral. （EI检索）
-13. Junfei Wang, Luxin Hu, Xianfeng Wu, Zhongyuan Lai, Qian Jia. Data driven point cloud classification: a review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR 2022), Shanghai, China, October 21-23, 2022. Oral. （EI检索）
-14. Junfei Wang, Hui Xiong, Yanli Gong, Xianfeng Wu, Shun Wang, Zhongyuan Lai. Transformer-based Dynamic Graph CNN for Point Clouds Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR 2022), Shanghai, China, October 21-23, 2022. Oral. （EI检索）
+12. Xianfeng Wu, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR 2022), Shanghai, China, October 21-23, 2022. Oral. （EI检索）
+13. Junfei Wang, Luxin Hu, Xianfeng Wu, Zhongyuan Lai, Qian Jia. Point Cloud Driven Object Classification: A Review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR 2022), Shanghai, China, October 21-23, 2022. Oral. （EI检索）
+14. Junfei Wang, Hui Xiong, Yanli Gong, Xianfeng Wu, Shun Wang, Zhongyuan Lai. Attention-based Dynamic Graph CNN for Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR 2022), Shanghai, China, October 21-23, 2022. Oral. （EI检索）
 15. Haibing Hu, Guoqing Wang, Zhongyuan Lai, Jiewen Zhang, Long Zhang, Optimization and Application of Indoor Localization Algorithm Based on Elman Neural Network, 2017 International Conference on Computer Systems, Electronics and Control (ICCSEC 2017), Dalian, China, 25-27 Dec. 2017, pp. 23-28（EI、ISTP检索）
 16. Zhijun Yao, Quan Zhou, Zhongyuan Lai, Zhiming Ren, Liming Liu, Image Enhancement Based on Bi-Histogram Equalization with Non-Parametric Modified Technology, 2016 IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS 2016), Wuhan, China, 13-16 Dec. 2016, pp. 1211-1215（EI、ISTP检索）
 17. Zhijun Yao, Zhongyuan Lai, Chun Wang, Image Enhancement Based on Equal Area Dualistic Sub-image and Non-Parametric Modified Histogram Equalization Method, 2016 9th International Symposium on Computational Intelligence and Design (ISCID 2016), Hangzhou, China, 10-11 Dec. 2016, vol. 1, pp. 447-450（EI、ISTP检索）
@@ -168,8 +168,9 @@ user_groups:
 
 **发明专利**  
 
-1、	刘霞、周杨诗宇、杨唐柱、李雅卓、任先平、熊琰、赖重远、林玲、户苗、吴林飞、李蒙、刘闯、王磊，一种用户姿态的确定方法、装置以及处理设备，申请日期：2021年10月15号，专利号：2021112018716  
-2、	刘霞、赖重远、李雅卓、熊琰、任先平、林玲、李骁、严明蝶，一种用户姿态的评估方法、装置以及处理设备，申请日期：2021年7月6号，专利号：2021107655038  
+1、  吴显峰、赖重远、王俊飞、刘心怡、刘宇炜、周静、刘霞、刘哲、胡亦明，基于点云的物体分类方法及相关设备，专利权人：江汉大学、研鸿智能科技（武汉）有限公司、湖南研鸿自动化设备有限公司，申请日期：2022年9月5号，专利号：202211076689.7
+2、	刘霞、周杨诗宇、杨唐柱、李雅卓、任先平、熊琰、赖重远、林玲、户苗、吴林飞、李蒙、刘闯、王磊，一种用户姿态的确定方法、装置以及处理设备，申请日期：2021年10月15号，专利号：2021112018716
+3、	刘霞、赖重远、李雅卓、熊琰、任先平、林玲、李骁、严明蝶，一种用户姿态的评估方法、装置以及处理设备，申请日期：2021年7月6号，专利号：2021107655038  
 
 
 **学术组织会员**  
