@@ -100,7 +100,8 @@ user_groups:
  1. 在光电材料与技术学院-交叉学科研究院的助理研究员桑鸿乾博士的带领下，吴显峰做为队长，吴显峰，杨中钱，李振等人获得2022ASC世界大学生超级计算机竞赛（ASC22）二等奖。
 
 **出版物**
- 1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
+ 1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu, Point cloud classification based on transformer, Computers and Electrical Engineering,
+Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2022.108413.
  2.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
  3.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  4.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
