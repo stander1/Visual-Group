@@ -72,12 +72,14 @@ user_groups:
 吴显峰（CSIG学生会员）目前是江汉大学人工智能学院和炳灵学院本科生，同时也是精细爆破国家重点实验室成员。他目前正在参与多个研究项目，包括国家自然科学基金和湖北省重点研发计划。他已经发表了6篇论文，拥有7项软件著作权。他的专业是人工智能。他的主要研究兴趣包括视觉计算和模式识别，特别是点云识别和补全。
 
 **教育背景**
- - 2020.09-至今　　　江汉大学人工智能专业　　  本科
+ - 2020.09-至今　　　江汉大学人工智能专业　　       本科
 <br>                    导师： 赖重远  
 
 **工作经历**
- - 2022.07-至今     武汉大学国家网络安全学院   实习生
- <br>                     导师： 吴黎兵教授  
+ - 2022.07-至今     武汉大学国家网络安全学院       实习生
+ <br>                     导师：吴黎兵教授  
+ - 2022.11-至今     斯坦福大学医学院医学数据科学系  实习生
+ <br>                     导师：Dr.Liangqiong Qu
                     
 **研究兴趣**
  - 视觉计算、模式识别、智慧医疗
@@ -102,11 +104,11 @@ user_groups:
 **出版物**
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu, Point cloud classification based on transformer, Computers and Electrical Engineering,
 Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2022.108413.
- 2.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Zhongyuan Lai*. Point Clouds Classification by Dynamic Graph CNN with Transformer. Array. Under review.
+ 2.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional information alignment in different modalities for Generalized Zero-Shot and Few-Shot Learning. Information. Under review.
  3.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  4.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
  5.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 6.	Jiyan Cai, Libing Wu, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning. The 9th International Conference on Behavioral and Social Computing (BESC), 2022.
+ 6.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning. The 9th International Conference on Behavioral and Social Computing (BESC), 2022.
  7.	基于深度学习的3D点云补全算法综述. 魏青，钱锦辉，**吴显峰**，邓亚茹，赖重远*. 网络安全技术与应用.
 
 **软件著作权**
