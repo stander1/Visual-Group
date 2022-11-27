@@ -104,12 +104,13 @@ user_groups:
 **出版物**
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu, Point cloud classification based on transformer, Computers and Electrical Engineering,
 Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2022.108413.
- 2.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional information alignment in different modalities for Generalized Zero-Shot and Few-Shot Learning. Information. Under review.
- 3.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 4.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 5.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
- 6.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning. The 9th International Conference on Behavioral and Social Computing (BESC), 2022.
- 7.	基于深度学习的3D点云补全算法综述. 魏青，钱锦辉，**吴显峰**，邓亚茹，赖重远*. 网络安全技术与应用.
+ 2.	Xianfeng Wu, Jinhui Qian, Qing Wei, Xianzu Wu, Xinyi Liu, Luxin Hu, Yanli Gong, Zhongyuan Lai, Libing Wu, Completing point cloud from few points by Wasserstein GAN and Transformers, arXiv e-prints, 2022: arXiv: 2211.12746, https://arxiv.org/abs/2211.12746.
+ 3.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional information alignment in different modalities for Generalized Zero-Shot and Few-Shot Learning. Information. Under review.
+ 4.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 5.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 6.	Junfei Wang, Hui Xiong, Yanli Gong, **Xianfeng Wu**, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 7.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning. The 9th International Conference on Behavioral and Social Computing (BESC), 2022.
+ 8.	基于深度学习的3D点云补全算法综述. 魏青，钱锦辉，**吴显峰**，邓亚茹，赖重远*. 网络安全技术与应用.
 
 **软件著作权**
  1.	基于多边形近似的率失真最优形状编解码软件V1.0, 2021SR0785371, 2021/05/28.
