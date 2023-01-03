@@ -56,8 +56,10 @@ user_groups:
  3. 2022-至今：大学生创新创业项目校级一般项目：一种基于Transformer诊断胎儿形体发育异常的点云识别技术（编号：2022yb315），在研，主持
 
 **出版物**
- 1.	Xianfeng Wu, **Xinyi Liu**, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Point Cloud Classification Based on Transformer. Computers and Electrical Engineering (CAEE). 2022.
- 2.	Xianfeng Wu, **Xinyi Liu**, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. The 7th International Symposium on Artificial Intelligence and Robotics (ISAIR), 2022, Oral.
+ 1.	Xianfeng Wu, **Xinyi Liu**, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu, Point cloud classification based on transformer, Computers and Electrical Engineering,
+Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2022.108413.
+ 2.	Xianfeng Wu, Jinhui Qian, Qing Wei, Xianzu Wu, **Xinyi Liu**, Luxin Hu, Yanli Gong, Zhongyuan Lai*, Libing Wu*, Completing point cloud from few points by Wasserstein GAN and Transformers, arXiv e-prints, 2022: arXiv: 2211.12746, https://arxiv.org/abs/2211.12746.
+ 3.	Xianfeng Wu, **Xinyi Liu**, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_19, Oral.
 
 
 **软件著作权**
