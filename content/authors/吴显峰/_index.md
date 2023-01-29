@@ -81,7 +81,7 @@ user_groups:
  - 2022.11-2022.12  Stanford University, Laboratory of Quantitative Imaging and Artificial Intelligence (QIAI)    remote intern
  <br>                     advisor: Postdoc Liangqiong Qu
  - 2023.01-Present	University of Hong Kong, the Institute of Data Science                                        remote intern
- <br>                     advisor: Prof. Liangqiong Qu
+ <br>                     advisor: Assistant Prof. Liangqiong Qu
                     
 **研究兴趣**
  - 视觉计算、模式识别、智慧医疗
