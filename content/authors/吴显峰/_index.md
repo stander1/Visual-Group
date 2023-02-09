@@ -114,8 +114,7 @@ Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.comp
  6.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_19, Oral.
  7.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_22, Oral.
  8.	Junfei Wang, Xiong Hui, Gong Yanli, **Xianfeng Wu**, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_30, Oral.
- 9.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, Xianfeng Wu, Multi-dimensional Alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning, 2022 9th International Conference on Behavioural and Social Computing (BESC), Matsuyama, Japan, 2022, pp. 1-4, doi: 10.1109/BESC57393.2022.9995148.
- 10.	基于深度学习的3D点云补全算法综述. 魏青，钱锦辉，**吴显峰**，邓亚茹，赖重远*. 网络安全技术与应用.
+ 9.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**, Multi-dimensional Alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning, 2022 9th International Conference on Behavioural and Social Computing (BESC), Matsuyama, Japan, 2022, pp. 1-4, doi: 10.1109/BESC57393.2022.9995148.
 
 **软件著作权**
  1.	基于多边形近似的率失真最优形状编解码软件V1.0, 2021SR0785371, 2021/05/28.
