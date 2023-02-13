@@ -77,11 +77,11 @@ user_groups:
 
 **工作经历**
  - 2022.07-至今     武汉大学国家网络安全学院       实习生
- <br>                     导师：吴黎兵教授  
- - 2022.11-2022.12  Stanford University, Laboratory of Quantitative Imaging and Artificial Intelligence (QIAI)    remote intern
- <br>                     advisor: Postdoc Liangqiong Qu
- - 2023.01-Present	University of Hong Kong, the Institute of Data Science                                        remote intern
- <br>                     advisor: Assistant Prof. Liangqiong Qu
+ <br>                     导师： [吴黎兵教授](http://jszy.whu.edu.cn/Libing/en/index.htm)
+<!--  - 2022.11-2022.12  Stanford University, Laboratory of Quantitative Imaging and Artificial Intelligence (QIAI)    remote intern
+ <br>                     advisor: Postdoc Liangqiong Qu -->
+ - 2022.11-Present	University of Hong Kong, the Institute of Data Science                                        remote intern
+ <br>                     advisor: [Assistant Prof. Liangqiong Qu](https://saasweb.hku.hk/staff/liangqqu/)
                     
 **研究兴趣**
  - 视觉计算、模式识别、智慧医疗
