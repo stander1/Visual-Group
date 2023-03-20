@@ -69,7 +69,7 @@ user_groups:
   - 炳灵学院-人工智能学院本科生
 ---
 
-吴显峰（CSIG学生会员）目前是江汉大学人工智能学院和炳灵学院本科生，同时也是精细爆破国家重点实验室成员。他目前正在参与多个研究项目，包括国家自然科学基金和湖北省重点研发计划。他已经发表了6篇论文，拥有7项软件著作权。他的专业是人工智能。他的主要研究兴趣包括视觉计算和模式识别，特别是点云识别和补全。他的最新[英文主页](https://maradona10wxf.github.io/)。
+吴显峰（CSIG学生会员）目前是江汉大学人工智能学院和炳灵学院本科生，同时也是精细爆破国家重点实验室成员。他目前正在参与多个研究项目，包括国家自然科学基金和湖北省重点研发计划。他已经发表了8篇论文，拥有7项软件著作权。他的专业是人工智能。他的主要研究兴趣包括视觉计算和模式识别，特别是点云识别和补全。他的最新[英文主页](https://maradona10wxf.github.io/)。
 
 **教育背景**
  - 2020.09-至今　　　江汉大学人工智能专业　　       本科
@@ -107,14 +107,14 @@ user_groups:
 **出版物**
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu, Point cloud classification based on transformer, Computers and Electrical Engineering,
 Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2022.108413.
- 2.	**Xianfeng Wu**, Xianzu Wu, Zhongyuan Lai*, Completing point cloud from few points by Wasserstein GAN and Transformers, in preparation ICCV23'.
- 3.	Fudong Ding, LibingWu*, Zhuangzhuang Zhang*, **Xianfeng Wu**, Chao Ma,  Qin Liu, A low-overhead auditing protocol for dynamic cloud storage based on algebra, Security and Communication Networks, Under review.
- 4.	Zhuangzhuang Zhang*, Libing Wu*, Debiao He, Jianxin Li, Shuqin Cao, **Xianfeng Wu**, Communication-Efficient and Byzantine-robust Federated Learning for Mobile Edge Computing Networks, IEEE Network, Under review.
- 5.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional information alignment in different modalities for Generalized Zero-Shot and Few-Shot Learning. Information 2023, 14, 148. https://doi.org/10.3390/info14030148。
+ 2.	Zhuangzhuang Zhang*, Libing Wu*, Debiao He, Jianxin Li, Shuqin Cao, **Xianfeng Wu**, Communication-Efficient and Byzantine-robust Federated Learning for Mobile Edge Computing Networks, IEEE Network, Accepted.
+ 3.	**Xianfeng Wu**, Xianzu Wu, Zhongyuan Lai*, Completing point cloud from few points by Wasserstein GAN and Transformers, in preparation ICCV23'.
+ 4.	Fudong Ding, LibingWu*, Zhuangzhuang Zhang*, **Xianfeng Wu**, Chao Ma,  Qin Liu, A low-overhead auditing protocol for dynamic cloud storage based on algebra, Security and Communication Networks, Under review.
+ 5.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional information alignment in different modalities for Generalized Zero-Shot and Few-Shot Learning. Information 2023, 14, 148. https://doi.org/10.3390/info14030148.
  6.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_19, Oral.
- 7.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_22, Oral.
- 8.	Junfei Wang, Xiong Hui, Gong Yanli, **Xianfeng Wu**, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_30, Oral.
- 9.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**, Multi-dimensional Alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning, 2022 9th International Conference on Behavioural and Social Computing (BESC), Matsuyama, Japan, 2022, pp. 1-4, doi: 10.1109/BESC57393.2022.9995148.
+ 7.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**, Multi-dimensional Alignment via Variational Autoencoders for Generalized Zero-Shot and Few-Shot Learning, 2022 9th International Conference on Behavioural and Social Computing (BESC), Matsuyama, Japan, 2022, pp. 1-4, doi: 10.1109/BESC57393.2022.9995148.
+ 8.	Junfei Wang, Luxin Hu, **Xianfeng Wu**, Zhongyuan Lai*, Qian Jia*. Point Cloud Driven Object Classification: A Review. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_22, Oral.
+ 9.	Junfei Wang, Xiong Hui, Gong Yanli, **Xianfeng Wu**, Shun Wang, Qian Jia, Zhongyuan Lai*. Attention-based Dynamic Graph CNN for Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_30, Oral.
 
 **软件著作权**
  1.	基于多边形近似的率失真最优形状编解码软件V1.0, 2021SR0785371, 2021/05/28.
