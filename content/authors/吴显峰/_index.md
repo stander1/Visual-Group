@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的主要研究兴趣包括视觉计算和模式识别.
+bio: 我的主要研究兴趣包括视觉计算, 模式识别和可信机器学习.
 
 # interests:
 #   - Artificial Intelligence
