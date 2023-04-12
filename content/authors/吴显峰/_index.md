@@ -50,9 +50,9 @@ social:
     link: https://github.com/XianfengWu01
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
+<!--   - icon: cv
     icon_pack: ai
-    link: static/files/Xianfeng_Wu.pdf
+    link: static/files/Xianfeng_Wu.pdf -->
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
