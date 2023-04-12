@@ -41,24 +41,24 @@ bio: 我的主要研究兴趣包括视觉计算, 模式识别和可信机器学�
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:XianfengWu@stu.jhun.edu.cn'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/XianfengWu01
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: Xianfeng_Wu.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'XianfengWu@stu.jhun.edu.cn'
@@ -78,27 +78,31 @@ user_groups:
 **工作经历**
  - 2022.07-至今     武汉大学国家网络安全学院       实习生
  <br>                     导师： [吴黎兵教授](http://jszy.whu.edu.cn/Libing/en/index.htm)
-<!--  - 2022.11-2022.12  Stanford University, Laboratory of Quantitative Imaging and Artificial Intelligence (QIAI)    remote intern
- <br>                     advisor: Postdoc Liangqiong Qu -->
- - 2022.11-Present	University of Hong Kong, the Institute of Data Science                                        remote intern
+ - 2022.11-2022.12  Stanford University, Laboratory of Quantitative Imaging and Artificial Intelligence (QIAI)    remote intern
+ <br>                     advisor: Postdoc Liangqiong Qu
+ - 2022.12-Present	University of Hong Kong, Institute of Data Science                                        remote intern
  <br>                     advisor: [Assistant Prof. Liangqiong Qu](https://saasweb.hku.hk/staff/liangqqu/)
+ - 2022.12-Present	University of Illinois Urbana-Champaign, School of Information Sciences                   remote intern
+ <br>                     advisor: [Assistant Prof. Haohan Wang](https://ischool.illinois.edu/people/haohan-wang)
                     
 **研究兴趣**
  - 视觉计算、模式识别、智慧医疗
 
 **主持或参加科研项目**
- 1. 精细爆破国家重点实验室2022年度自主研究课题探索性课题，PBSKL2022201，基于机器视觉的爆破飞石检测及轨迹预测，2022/05-2024/05，20万元，在研，参与
- 2. 江汉大学校级科研项目（四新学科专项）, 基于机器视觉的婴儿运动发育评估（编号：2022SXZX16）, 2022/11-2024/11: 7万元，在研，参与
- 3. 2019年7月-2021年6月：江汉大学学科特色方向协同创新团队项目《绿色爆破的气动声学研究》 50万元 气动声学控制
- 4. 湖北省重点研发计划项目，2020BCB054，基于机器视觉的人体异常姿势和康复动作识别，2020/09-2022/07、30万元，在研
- 5. 2020-至今：参与湖北省教育厅指导性项目：工程爆破冲击波空气动力行为特性研究（编号：B2020227）
- 6. 2021-至今：参与江汉大学校级科研项目：基于深度学习的CT影像肺结节辅助诊断研究（编号：2021yb052）
- 7. 2021-2022：江汉大学2021年度第二批学生科研项目：一种基于新型编解码器网络的点云补全（编号：2021Bczd006），0.5万元，结题，主持
- 8. 2021-至今：2020级研究生创新基金一般项目：基于深度学习的点云补全算法研究
- 9. 2021-至今：2020级研究生创新基金一般项目：基于深度学习的三维点云物体识别方法
- 10. 2022-至今：大学生创新创业项目省级重点项目：一种基于新型编解码器诊断胎儿脑部异常的图像识别技术（编号：2022zd096），0.6万元，参与
- 11. 2022-至今：大学生创新创业项目省级重点项目：基于Jupyter和QPanda的量子云计算实践（编号：2022zd105），0.6万元，参与
- 12. 2022-至今：大学生创新创业项目校级一般项目：一种基于Transformer诊断胎儿形体发育异常的点云识别技术（编号：2022yb315）
+ 1. 国家自然科学基金项目, 复杂场景下弱感知点云目标检测方法研究（编号：62106086）, 2021-2024: 30万元
+ 2. 精细爆破国家重点实验室2022年度自主研究课题探索性课题，PBSKL2022201，基于机器视觉的爆破飞石检测及轨迹预测，2022/05-2024/05，20万元，在研，参与
+ 3. 湖北省科技创新专项, 基于深度注意力引导补全的弱感知目标检测方法研究（编号：2021CFB564）, 2021-至今: 8万元
+ 4. 江汉大学校级科研项目（四新学科专项）, 基于机器视觉的婴儿运动发育评估（编号：2022SXZX16）, 2022/11-2024/11: 7万元，在研，参与
+ 5. 2019年7月-2021年6月：江汉大学学科特色方向协同创新团队项目《绿色爆破的气动声学研究》 50万元 气动声学控制
+ 6. 湖北省重点研发计划项目，2020BCB054，基于机器视觉的人体异常姿势和康复动作识别，2020/09-2022/07、30万元，结题
+ 7. 2020-至今：参与湖北省教育厅指导性项目：工程爆破冲击波空气动力行为特性研究（编号：B2020227）
+ 8. 2021-至今：参与江汉大学校级科研项目：基于深度学习的CT影像肺结节辅助诊断研究（编号：2021yb052）
+ 9. 2021-2022：江汉大学2021年度第二批学生科研项目：一种基于新型编解码器网络的点云补全（编号：2021Bczd006），0.5万元，结题，主持
+ 10. 2021-至今：2020级研究生创新基金一般项目：基于深度学习的点云补全算法研究
+ 11. 2021-至今：2020级研究生创新基金一般项目：基于深度学习的三维点云物体识别方法
+ 12. 2022-至今：大学生创新创业项目省级重点项目：一种基于新型编解码器诊断胎儿脑部异常的图像识别技术（编号：2022zd096），0.6万元，参与
+ 13. 2022-至今：大学生创新创业项目省级重点项目：基于Jupyter和QPanda的量子云计算实践（编号：2022zd105），0.6万元，参与
+ 14. 2022-至今：大学生创新创业项目校级一般项目：一种基于Transformer诊断胎儿形体发育异常的点云识别技术（编号：2022yb315）
 
 **荣誉与奖励**
 
@@ -108,7 +112,7 @@ user_groups:
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu, Point cloud classification based on transformer, Computers and Electrical Engineering,
 Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2022.108413.
  2.	Zhuangzhuang Zhang*, Libing Wu*, Debiao He, Jianxin Li, Shuqin Cao, **Xianfeng Wu**, Communication-Efficient and Byzantine-robust Federated Learning for Mobile Edge Computing Networks, IEEE Network, Accepted.
- 3.	**Xianfeng Wu**, Xianzu Wu, Zhongyuan Lai*, Completing point cloud from few points by Wasserstein GAN and Transformers, in preparation ICCV23'.
+ 3.	**Xianfeng Wu**, Xianzu Wu, Zhongyuan Lai*, Completing point cloud from few points by Wasserstein GAN and Transformers, International Conference on Computer Vision (ICCV23’).
  4.	Fudong Ding, LibingWu*, Zhuangzhuang Zhang*, **Xianfeng Wu**, Chao Ma,  Qin Liu, A low-overhead auditing protocol for dynamic cloud storage based on algebra, Security and Communication Networks, Under review.
  5.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional information alignment in different modalities for Generalized Zero-Shot and Few-Shot Learning. Information 2023, 14, 148. https://doi.org/10.3390/info14030148.
  6.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_19, Oral.
