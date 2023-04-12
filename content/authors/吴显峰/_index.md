@@ -112,7 +112,7 @@ user_groups:
  1.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai, Jing Zhou, Xia Liu, Point cloud classification based on transformer, Computers and Electrical Engineering,
 Volume 104, Part A, 2022, 108413, ISSN 0045-7906, https://doi.org/10.1016/j.compeleceng.2022.108413.
  2.	Zhuangzhuang Zhang*, Libing Wu*, Debiao He, Jianxin Li, Shuqin Cao, **Xianfeng Wu**, Communication-Efficient and Byzantine-robust Federated Learning for Mobile Edge Computing Networks, IEEE Network, Accepted.
- 3.	**Xianfeng Wu**, Xianzu Wu, Zhongyuan Lai*, Completing point cloud from few points by Wasserstein GAN and Transformers, International Conference on Computer Vision (ICCV23’).
+ 3.	**Xianfeng Wu**, Xianzu Wu, Zhongyuan Lai*, Completing point cloud from few points by Wasserstein GAN and Transformers, International Conference on Computer Vision (ICCV23’), Under review.
  4.	Fudong Ding, LibingWu*, Zhuangzhuang Zhang*, **Xianfeng Wu**, Chao Ma,  Qin Liu, A low-overhead auditing protocol for dynamic cloud storage based on algebra, Security and Communication Networks, Under review.
  5.	Jiyan Cai*, Libing Wu*, Dan Wu, Jianxin Li, **Xianfeng Wu**. Multi-dimensional information alignment in different modalities for Generalized Zero-Shot and Few-Shot Learning. Information 2023, 14, 148. https://doi.org/10.3390/info14030148.
  6.	**Xianfeng Wu**, Xinyi Liu, Junfei Wang, Zhongyuan Lai*, Jing Zhou*, Xia Liu*. Transformer-Based Point Cloud Classification. In Artificial Intelligence and Robotics. ISAIR 2022. Communications in Computer and Information Science, vol 1700. Springer, Singapore. https://doi.org/10.1007/978-981-19-7946-0_19, Oral.
