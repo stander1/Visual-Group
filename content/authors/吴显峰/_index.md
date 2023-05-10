@@ -77,13 +77,13 @@ user_groups:
 <br>                    导师： 赖重远  
 
 **工作经历**
- - 2022.07-至今     武汉大学国家网络安全学院       实习生
+ - 2022.07-2022.12     武汉大学国家网络安全学院       实习生
  <br>                     导师： [吴黎兵教授](http://jszy.whu.edu.cn/Libing/en/index.htm)
  - 2022.11-2022.12  Stanford University, Laboratory of Quantitative Imaging and Artificial Intelligence (QIAI)    remote intern
  <br>                     advisor: Postdoc Liangqiong Qu
- - 2022.12-Present	University of Hong Kong, Institute of Data Science                                        remote intern
+ - 2022.12-2023.05	University of Hong Kong, Institute of Data Science                                        remote intern
  <br>                     advisor: [Assistant Prof. Liangqiong Qu](https://saasweb.hku.hk/staff/liangqqu/)
- - 2022.12-Present	University of Illinois Urbana-Champaign, School of Information Sciences                   remote intern
+ - 2022.12-2023.05	University of Illinois Urbana-Champaign, School of Information Sciences                   remote intern
  <br>                     advisor: [Assistant Prof. Haohan Wang](https://ischool.illinois.edu/people/haohan-wang)
                     
 **研究兴趣**
