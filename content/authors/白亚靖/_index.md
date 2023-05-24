@@ -62,7 +62,7 @@ bio: 我的主要研究兴趣包括计算机视觉和智慧医疗.
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'XianfengWu@stu.jhun.edu.cn'
+email: 'YajingBai@stu.jhun.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
