@@ -83,6 +83,8 @@ user_groups:
  2. 2023-至今：大学生创新创业项目重点项目：基于Point-Nerf和Diffusion Model的稀疏点云三维重建，参与
  3. 2022-2023：大学生创新创业项目校级一般项目：基于人工智能算法的数字识别系统研究与设计（编号：2022yb352）
 
+**出版物**
+ 1.	Xianzu Wu, yangyang zheng, Xianfeng Wu, Weifeng Shang, Cheng Meng, Zhou Xie, **Yajing Bai**, Guozhong Gao*, Neural Information Processing Systems (NeurIPS23'), Under review.
 
 
 
