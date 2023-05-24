@@ -85,9 +85,11 @@ user_groups:
  <br>                     advisor: [Assistant Prof. Liangqiong Qu](https://saasweb.hku.hk/staff/liangqqu/)
  - 2022.12-2023.05	University of Illinois Urbana-Champaign, School of Information Sciences                   remote intern
  <br>                     advisor: [Assistant Prof. Haohan Wang](https://ischool.illinois.edu/people/haohan-wang)
+ - 2023.06-至今	    西湖大学工学院                   暑期科研实习生
+ <br>                     advisor: [吴泰霖助理教授](https://en.westlake.edu.cn/faculty/tailin-wu.html)
                     
 **研究兴趣**
- - 视觉计算、模式识别、智慧医疗
+ - 视觉计算、模式识别、智慧医疗、可信机器学习、AI4Science
 
 **主持或参加科研项目**
  1. 国家自然科学基金项目, 复杂场景下弱感知点云目标检测方法研究（编号：62106086）, 2021-2024: 30万元
