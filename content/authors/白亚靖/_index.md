@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的主要研究兴趣包括计算机视觉和智慧医疗.
+bio: 我的主要研究兴趣包括计算机视觉, 可信机器学习和智慧医疗.
 
 # interests:
 #   - Artificial Intelligence
@@ -41,11 +41,11 @@ bio: 我的主要研究兴趣包括计算机视觉和智慧医疗.
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:XianfengWu@stu.jhun.edu.cn'
-#   - icon: github
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:YajingBai@stu.jhun.edu.cn'
+  - icon: github
 #     icon_pack: fab
 #     link: https://github.com/XianfengWu01
 #   - icon: twitter
@@ -70,7 +70,7 @@ user_groups:
   - 人工智能学院本科生
 ---
 
-白亚靖目前是江汉大学人工智能学院本科生。她目前正在参与多个研究项目。她的专业是人工智能。她的主要研究兴趣包括计算机视觉和智慧医疗。
+白亚靖（CSIG学生会员）目前是江汉大学人工智能学院本科生。她目前正在主持并参与多个国家级大学生创新创业训练计划国家级项目。她的专业是人工智能。她的主要研究兴趣包括计算机视觉, 可信机器学习和智慧医疗。
 
 **教育背景**
  - 2021.09-至今　　　江汉大学人工智能专业　　       本科
@@ -79,9 +79,9 @@ user_groups:
  - 计算机视觉、可信机器学习、智慧医疗
 
 **主持或参加科研项目**
- 1. 2023-至今：大学生创新创业项目重点项目：基于联邦学习的自动驾驶汽车点云信息处理隐私安全研究，主持
- 2. 2023-至今：大学生创新创业项目重点项目：基于Point-Nerf和Diffusion Model的稀疏点云三维重建，参与
- 3. 2022-2023：大学生创新创业项目校级一般项目：基于人工智能算法的数字识别系统研究与设计（编号：2022yb352）
+ 1. 2023.05-2024.10：国家级大学生创新创业训练计划国家级项目：基于联邦学习的自动驾驶汽车点云信息处理隐私安全研究（编号：2023zd117）, 1万元, 在研, 主持
+ 2. 2023.05-2024.05：国家级大学生创新创业训练计划国家级项目：基于Point-Nerf和Diffusion Model的稀疏点云三维重建（编号：2023zd111）, 1万元, 在研, 参与
+ 3. 2022.05-2023.05：大学生创新创业项目校级一般项目：基于人工智能算法的数字识别系统研究与设计（编号：2022yb352）, 800元, 结题, 参与
 
 **出版物**
  1.	Xianzu Wu, yangyang zheng, Xianfeng Wu, Weifeng Shang, Cheng Meng, Zhou Xie, **Yajing Bai**, Guozhong Gao*, Neural Information Processing Systems (NeurIPS23'), Under review.
