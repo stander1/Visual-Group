@@ -45,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:YajingBai@stu.jhun.edu.cn'
-  - icon: github
+#   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/XianfengWu01
 #   - icon: twitter
