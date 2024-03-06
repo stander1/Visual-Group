@@ -79,12 +79,12 @@ user_groups:
  - 计算机视觉、可信机器学习、智慧医疗
 
 **主持或参加科研项目**
- 1. 2023.05-2024.10：国家级大学生创新创业训练计划国家级项目：基于联邦学习的自动驾驶汽车点云信息处理隐私安全研究（编号：2023zd117）, 1万元, 在研, 主持
- 2. 2023.05-2024.05：国家级大学生创新创业训练计划国家级项目：基于Point-Nerf和Diffusion Model的稀疏点云三维重建（编号：2023zd111）, 1万元, 在研, 参与
+ 1. 2023.05-2024.10：国家级大学生创新创业训练计划国家级项目：基于联邦学习的自动驾驶汽车点云信息处理隐私安全研究（编号：202311072010）, 1万元, 在研, 主持
+ 2. 2023.05-2024.05：国家级大学生创新创业训练计划国家级项目：基于Point-Nerf和Diffusion Model的稀疏点云三维重建（编号：202311072004）, 1万元, 在研, 参与
  3. 2022.05-2023.05：大学生创新创业项目校级一般项目：基于人工智能算法的数字识别系统研究与设计（编号：2022yb352）, 800元, 结题, 参与
 
 **出版物**
- 1.	Xianzu Wu, yangyang zheng, Xianfeng Wu, Weifeng Shang, Cheng Meng, Zhou Xie, **Yajing Bai**, Guozhong Gao*, Neural Information Processing Systems (NeurIPS23'), Under review.
+ 1.	$Xianzu Wu^+$, $Xianfeng Wu^+$, Tianyu Luan, **Yajing Bai**, Zhongyuan Lai*, Junsong Yuan, FSC: Few-point Shape Completion, CVPR24'. ($\color{red}{CCF A}$)
 
 
 
